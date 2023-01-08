@@ -10,3 +10,7 @@ Data from [Yahoo Finance](https://de.finance.yahoo.com/).
 ## Generate them yourself
 You can generate the most recent output files yourself with my script using node.js.
 To do that you need to find the most recent [NYSE ticker list](https://www.nyse.com/listings_directory/stock) and then download all the recent input files from [Yahoo Finance](https://de.finance.yahoo.com/).
+
+## TODO
+Data may not be accurate enough, because new stocks get listed and delisted every day.  
+To improve the results, one would additionally need to get the listing and delisting dates.   
